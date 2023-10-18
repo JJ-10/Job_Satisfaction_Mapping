@@ -9,7 +9,7 @@ NumPy, Pandas, GeoPy, Seaborn, Matplotlib, Folium, Branca, Wordcloud, Pillow/PIL
 pip install -r requirements.txt
 
 ## Notes
-To view study on Github with Folium maps enabled please refer to HTML version in report_as_html folder.
+Refer to report_as_html folder for HTML version of study.
 
 ## Contents
 - 1 Introduction
